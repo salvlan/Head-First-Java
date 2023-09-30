@@ -116,57 +116,57 @@ Collection of all the exercises and projects completed during the study of the b
 - Static imports
 - Exercises and puzzles
 ### 11. Risky Behavior
-- Making a music machine (the BeatBox) 316
-- What if you need to call risky code? 319
-- Exceptions say “something bad may have happened...” 320
-- The compiler guarantees (it checks) that you’re aware of the risks 321
-- Catching exceptions using a try/catch (skateboarder) 322
-- Flow control in try/catch blocks 326
-- The fi nally block (no matter what happens, turn off the oven!) 327
-- Catching multiple exceptions (the order matters) 329
-- Declaring an exception (just duck it) 335
-- Handle or declare law 337
-- Code Kitchen (making sounds) 339
+- Making a music machine (the BeatBox)
+- What if you need to call risky code?
+- Exceptions say “something bad may have happened...”
+- The compiler guarantees (it checks) that you’re aware of the risks
+- Catching exceptions using a try/catch (skateboarder)
+- Flow control in try/catch blocks
+- The fi nally block (no matter what happens, turn off the oven!)
+- Catching multiple exceptions (the order matters)
+- Declaring an exception (just duck it)
+- Handle or declare law
+- Code Kitchen (making sounds)
 - Exercises and puzzles
 ### 12. A Very Graphic Story
-- Your fi rst GUI 355
-- Getting a user event 357
-- Implement a listener interface 358
-- Getting a button’s ActionEvent 360
-- Putting graphics on a GUI 363
-- Fun with paintComponent() 365
-- The Graphics2D object 366
-- Putting more than one button on a screen 370
-- Inner classes to the rescue (make your listener an inner class) 376
-- Animation (move it, paint it, move it, paint it, move it, paint it...) 382
-- Code Kitchen (painting graphics with the beat of the music) 386
+- Your fi rst GUI
+- Getting a user event
+- Implement a listener interface
+- Getting a button’s ActionEvent
+- Putting graphics on a GUI
+- Fun with paintComponent()
+- The Graphics2D object
+- Putting more than one button on a screen
+- Inner classes to the rescue (make your listener an inner class)
+- Animation (move it, paint it, move it, paint it, move it, paint it...)
+- Code Kitchen (painting graphics with the beat of the music)
 - Exercises and puzzles
 ### 13. Work on your Swing
-- Swing Components 400
-- Layout Managers (they control size and placement) 401
-- Three Layout Managers (border, flow, box) 403
-- BorderLayout (cares about five regions) 404
-- FlowLayout (cares about the order and preferred size) 408
-- BoxLayout (like flow, but can stack components vertically) 411
-- JTextField (for single-line user input) 413
-- JTextArea (for multi-line, scrolling text) 414
-- JCheckBox (is it selected?) 416
-- JList (a scrollable, selectable list) 417
-- Code Kitchen (The Big One - building the BeatBox chat client) 418
+- Swing Components
+- Layout Managers (they control size and placement)
+- Three Layout Managers (border, flow, box)
+- BorderLayout (cares about five regions)
+- FlowLayout (cares about the order and preferred size)
+- BoxLayout (like flow, but can stack components vertically)
+- JTextField (for single-line user input)
+- JTextArea (for multi-line, scrolling text)
+- JCheckBox (is it selected?) 
+- JList (a scrollable, selectable list)
+- Code Kitchen (The Big One - building the BeatBox chat client)
 - Exercises and puzzles
 ### 14. Saving Objects
-- Saving object state 431
-- Writing a serialized object to a file 432
-- Java input and output streams (connections and chains) 433
-- Object serialization 434
-- Implementing the Serializable interface 437
-- Using transient variables 439
-- Deserializing an object 441
-- Writing to a text file 447
-- java.io.File 452
-- Reading from a text file 454
-- Splitting a String into tokens with split() 458
-- CodeKitchen 462
+- Saving object state
+- Writing a serialized object to a file
+- Java input and output streams (connections and chains) 
+- Object serialization
+- Implementing the Serializable interface
+- Using transient variables
+- Deserializing an object
+- Writing to a text file
+- java.io.File
+- Reading from a text file
+- Splitting a String into tokens with split()
+- CodeKitchen
 - Exercises and puzzles
 ### 15. Make a Connection
 - Chat program overview
