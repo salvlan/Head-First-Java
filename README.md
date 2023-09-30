@@ -183,7 +183,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Launching a new thread (make it, start it)
 - The Runnable interface (the thread’s job)
 - Three states of a new Thread object (new, runnable, running)
-- The runnable-running loop 496
+- The runnable-running loop
 - Thread scheduler (it’s his decision, not yours)
 - Putting a thread to sleep
 - Making and starting two threads
