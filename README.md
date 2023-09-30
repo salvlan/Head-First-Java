@@ -39,81 +39,81 @@ Collection of all the exercises and projects completed during the study of the b
 - Using references in an array
 - Exercises and puzzles
 ### 5. A Trip to Objectville
-- Building the Sink a Dot Com game 96
-- Starting with the Simple Dot Com game (a simpler version) 98
-- Writing prepcode (pseudocode for the game) 100
-- Test code for Simple Dot Com 102
-- Coding the Simple Dot Com game 103
-- Final code for Simple Dot Com 106
-- Generating random numbers with Math.random() 111
-- Ready-bake code for getting user input from the command-line 112
-- Looping with for loops 114
-- Casting primitives from a large size to a smaller size 117
-- Converting a String to an int with Integer.parseInt() 117
+- Building the Sink a Dot Com game
+- Starting with the Simple Dot Com game (a simpler version)
+- Writing prepcode (pseudocode for the game)
+- Test code for Simple Dot Com
+- Coding the Simple Dot Com game
+- Final code for Simple Dot Com
+- Generating random numbers with Math.random()
+- Ready-bake code for getting user input from the command-line
+- Looping with for loops
+- Casting primitives from a large size to a smaller size
+- Converting a String to an int with Integer.parseInt()
 - Exercises and puzzles
 ### 6. A Trip to Objectville
-- Analying the bug in the Simple Dot Com Game 126
-- ArrayList (taking advantage of the Java API) 132
-- Fixing the DotCom class code 138
-- Building the real game (Sink a Dot Com) 140
-- Prepcode for the real game 144
-- Code for the real game 146
-- boolean expressions 151
-- Using the library (Java API) 154
-- Using packages (import statements, fully-qualifi ed names) 155
-- Using the HTML API docs and reference books 158
+- Analying the bug in the Simple Dot Com Game
+- ArrayList (taking advantage of the Java API)
+- Fixing the DotCom class code
+- Building the real game (Sink a Dot Com)
+- Prepcode for the real game
+- Code for the real game
+- boolean expressions
+- Using the library (Java API)
+- Using packages (import statements, fully-qualifi ed names)
+- Using the HTML API docs and reference books
 - Exercises and puzzles
 ### 7. A Trip to Objectville
-- Understanding inheritance (superclass and subclass relationships) 168
-- Designing an inheritance tree (the Animal simulation) 170
-- Avoiding duplicate code (using inheritance) 171
-- Overriding methods 172
-- IS-A and HAS-A (bathtub girl) 177
-- What do you inherit from your superclass? 180
-- What does inheritance really buy you? 182
-- Polymorphism (using a supertype reference to a subclass object) 183
-- Rules for overriding (don’t touch those arguments and return types!) 190
-- Method overloading (nothing more than method name re-use) 191
+- Understanding inheritance (superclass and subclass relationships)
+- Designing an inheritance tree (the Animal simulation)
+- Avoiding duplicate code (using inheritance)
+- Overriding methods
+- IS-A and HAS-A (bathtub girl)
+- What do you inherit from your superclass?
+- What does inheritance really buy you?
+- Polymorphism (using a supertype reference to a subclass object)
+- Rules for overriding (don’t touch those arguments and return types!)
+- Method overloading (nothing more than method name re-use)
 - Exercises and puzzles
 ### 8. A Trip to Objectville
-- Some classes just should not be instantiated 200
-- Abstract classes (can’t be instantiated) 201
-- Abstract methods (must be implemented) 203
-- Polymorphism in action 206
-- Class Object (the ultimate superclass of everything) 208
-- Taking objects out of an ArrayList (they come out as type Object) 211
-- Compiler checks the reference type (before letting you call a method) 213
-- Get in touch with your inner object 214
-- Polymorphic references 215
-- Casting an object reference (moving lower on the inheritance tree) 216
-- Deadly Diamond of Death (multiple inheritance problem) 223
-- Using interfaces (the best solution!) 224
+- Some classes just should not be instantiated
+- Abstract classes (can’t be instantiated)
+- Abstract methods (must be implemented)
+- Polymorphism in action
+- Class Object (the ultimate superclass of everything)
+- Taking objects out of an ArrayList (they come out as type Object)
+- Compiler checks the reference type (before letting you call a method)
+- Get in touch with your inner object
+- Polymorphic references
+- Casting an object reference (moving lower on the inheritance tree)
+- Deadly Diamond of Death (multiple inheritance problem)
+- Using interfaces (the best solution!)
 - Exercises and puzzles
 ### 9. A Trip to Objectville
-- The stack and the heap, where objects and variables live 236
-- Methods on the stack 237
-- Where local variables live 238
-- Where instance variables live 239
-- The miracle of object creation 240
-- Constructors (the code that runs when you say new) 241
-- Initializing the state of a new Duck 243
-- Overloaded constructors 247
-- Superclass constructors (constructor chaining) 250
-- Invoking overloaded constructors using this() 256
-- Life of an object 258
-- Garbage Collection (and making objects eligible) 260
+- The stack and the heap, where objects and variables live
+- Methods on the stack
+- Where local variables live
+- Where instance variables live
+- The miracle of object creation
+- Constructors (the code that runs when you say new)
+- Initializing the state of a new Duck
+- Overloaded constructors
+- Superclass constructors (constructor chaining)
+- Invoking overloaded constructors using this()
+- Life of an object
+- Garbage Collection (and making objects eligible)
 - Exercises and puzzles
 ### 10. A Trip to Objectville
-- Math class (do you really need an instance of it?) 274
-- static methods 275
-- static variables 277
-- Constants (static fi nal variables) 282
-- Math methods (random(), round(), abs(), etc.) 286
-- Wrapper classes (Integer, Boolean, Character, etc.) 287
-- Autoboxing 289
-- Number formatting 294
-- Date formatting and manipulation 301
-- Static imports 307
+- Math class (do you really need an instance of it?)
+- static methods
+- static variables
+- Constants (static fi nal variables)
+- Math methods (random(), round(), abs(), etc.)
+- Wrapper classes (Integer, Boolean, Character, etc.)
+- Autoboxing
+- Number formatting
+- Date formatting and manipulation
+- Static imports
 - Exercises and puzzles
 ### 11. A Trip to Objectville
 - Making a music machine (the BeatBox) 316
@@ -169,63 +169,63 @@ Collection of all the exercises and projects completed during the study of the b
 - CodeKitchen 462
 - Exercises and puzzles
 ### 15. A Trip to Objectville
-- Chat program overview 473
-- Connecting, sending, and receiving 474
-- Network sockets 475
-- TCP ports 476
-- Reading data from a socket (using BufferedReader) 478
-- Writing data to a socket (using PrintWriter) 479
-- Writing the Daily Advice Client program 480
-- Writing a simple server 483
-- Daily Advice Server code 484
-- Writing a chat client 486
-- Multiple call stacks 490
-- Launching a new thread (make it, start it) 492
-- The Runnable interface (the thread’s job) 494
-- Three states of a new Thread object (new, runnable, running) 495
+- Chat program overview
+- Connecting, sending, and receiving
+- Network sockets
+- TCP ports
+- Reading data from a socket (using BufferedReader)
+- Writing data to a socket (using PrintWriter)
+- Writing the Daily Advice Client program
+- Writing a simple server
+- Daily Advice Server code
+- Writing a chat client
+- Multiple call stacks
+- Launching a new thread (make it, start it)
+- The Runnable interface (the thread’s job)
+- Three states of a new Thread object (new, runnable, running)
 - The runnable-running loop 496
-- Thread scheduler (it’s his decision, not yours) 497
-- Putting a thread to sleep 501
-- Making and starting two threads 503
-- Concurrency issues: can this couple be saved? 505
-- The Ryan and Monica concurrency problem, in code 506
-- Locking to make things atomic 510
-- Every object has a lock 511
-- The dreaded “Lost Update” problem 512
-- Synchronized methods (using a lock) 514
-- Deadlock! 516
-- Multithreaded ChatClient code 518
-- Ready-bake SimpleChatServer 520
+- Thread scheduler (it’s his decision, not yours)
+- Putting a thread to sleep
+- Making and starting two threads
+- Concurrency issues: can this couple be saved?
+- The Ryan and Monica concurrency problem, in code
+- Locking to make things atomic
+- Every object has a lock
+- The dreaded “Lost Update” problem
+- Synchronized methods (using a lock)
+- Deadlock!
+- Multithreaded ChatClient code 
+- Ready-bake SimpleChatServer
 - Exercises and puzzles
 ### 16. A Trip to Objectville
-- Collections 533
-- Sorting an ArrayList with Collections.sort() 534
-- Generics and type-safety 540
-- Sorting things that implement the Comparable interface 547
-- Sorting things with a custom Comparator 552
-- The collection API—lists, sets, and maps 557
-- Avoiding duplicates with HashSet 559
-- Overriding hashCode() and equals() 560
-- HashMap 567
-- Using wildcards for polymorphism 574
+- Collections
+- Sorting an ArrayList with Collections.sort()
+- Generics and type-safety
+- Sorting things that implement the Comparable interface
+- Sorting things with a custom Comparator
+- The collection API—lists, sets, and maps
+- Avoiding duplicates with HashSet
+- Overriding hashCode() and equals()
+- HashMap
+- Using wildcards for polymorphism
 - Exercises and puzzles
 ### 17. A Trip to Objectville
-- Deployment options 582
-- Keep your source code and class fi les separate 584
-- Making an executable JAR (Java ARchives) 585
-- Running an executable JAR 586
-- Put your classes in a package! 587
-- Packages must have a matching directory structure 589
-- Compiling and running with packages 590
-- Compiling with -d 591
-- Making an executable JAR (with packages) 592
-- Java Web Start (JWS) for deployment from the web 597
-- How to make and deploy a JWS application 600
+- Deployment options
+- Keep your source code and class fi les separate
+- Making an executable JAR (Java ARchives)
+- Running an executable JAR
+- Put your classes in a package!
+- Packages must have a matching directory structure
+- Compiling and running with packages
+- Compiling with -d
+- Making an executable JAR (with packages)
+- Java Web Start (JWS) for deployment from the web
+- How to make and deploy a JWS application
 - Exercises and puzzles
 ### 18. A Trip to Objectville
-- Java Remote Method Invocation (RMI), hands-on, very detailed 614
-- Servlets (a quick look) 625
-- Enterprise JavaBeans (EJB), a very quick look 631
-- Jini, the best trick of all 632
-- Building the really cool universal service browser 636
+- Java Remote Method Invocation (RMI), hands-on, very detailed
+- Servlets (a quick look)
+- Enterprise JavaBeans (EJB), a very quick look
+- Jini, the best trick of all
+- Building the really cool universal service browser
 - The End
