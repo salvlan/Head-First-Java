@@ -28,7 +28,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Reference variables (remote control to an object)
 - Object declaration and assignment
 - Objects on the garbage-collectible heap
-- Arrays (a fi rst look)
+- Arrays (a first look)
 - Exercises and puzzles
 ### 4. How Objects Behave
 - Methods use object state (bark different)
