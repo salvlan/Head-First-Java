@@ -21,7 +21,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Using main()
 - Guessing Game code
 - Exercises and puzzles
-### 3. A Trip to Objectville
+### 3. Know Your Variables
 - Declaring a variable (Java cares about type)
 - Primitive types (“I’d like a double with extra foam, please”)
 - Java keywords
@@ -30,7 +30,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Objects on the garbage-collectible heap
 - Arrays (a fi rst look)
 - Exercises and puzzles
-### 4. A Trip to Objectville
+### 4. How Objects Behave
 - Methods use object state (bark different)
 - Method arguments and return types
 - Pass-by-value (the variable is always copied)
@@ -38,7 +38,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Encapsulation (do it or risk humiliation)
 - Using references in an array
 - Exercises and puzzles
-### 5. A Trip to Objectville
+### 5. Extra-Strength Methods
 - Building the Sink a Dot Com game
 - Starting with the Simple Dot Com game (a simpler version)
 - Writing prepcode (pseudocode for the game)
@@ -51,7 +51,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Casting primitives from a large size to a smaller size
 - Converting a String to an int with Integer.parseInt()
 - Exercises and puzzles
-### 6. A Trip to Objectville
+### 6. Using the Java Library
 - Analying the bug in the Simple Dot Com Game
 - ArrayList (taking advantage of the Java API)
 - Fixing the DotCom class code
@@ -63,7 +63,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Using packages (import statements, fully-qualifi ed names)
 - Using the HTML API docs and reference books
 - Exercises and puzzles
-### 7. A Trip to Objectville
+### 7. Better Living in Objectville
 - Understanding inheritance (superclass and subclass relationships)
 - Designing an inheritance tree (the Animal simulation)
 - Avoiding duplicate code (using inheritance)
@@ -75,7 +75,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Rules for overriding (don’t touch those arguments and return types!)
 - Method overloading (nothing more than method name re-use)
 - Exercises and puzzles
-### 8. A Trip to Objectville
+### 8. Serious Polymorphism
 - Some classes just should not be instantiated
 - Abstract classes (can’t be instantiated)
 - Abstract methods (must be implemented)
@@ -89,7 +89,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Deadly Diamond of Death (multiple inheritance problem)
 - Using interfaces (the best solution!)
 - Exercises and puzzles
-### 9. A Trip to Objectville
+### 9. Life and Death of an Object
 - The stack and the heap, where objects and variables live
 - Methods on the stack
 - Where local variables live
@@ -103,7 +103,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Life of an object
 - Garbage Collection (and making objects eligible)
 - Exercises and puzzles
-### 10. A Trip to Objectville
+### 10. Numbers Matter
 - Math class (do you really need an instance of it?)
 - static methods
 - static variables
@@ -115,7 +115,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Date formatting and manipulation
 - Static imports
 - Exercises and puzzles
-### 11. A Trip to Objectville
+### 11. Risky Behavior
 - Making a music machine (the BeatBox) 316
 - What if you need to call risky code? 319
 - Exceptions say “something bad may have happened...” 320
@@ -128,7 +128,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Handle or declare law 337
 - Code Kitchen (making sounds) 339
 - Exercises and puzzles
-### 12. A Trip to Objectville
+### 12. A Very Graphic Story
 - Your fi rst GUI 355
 - Getting a user event 357
 - Implement a listener interface 358
@@ -141,7 +141,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Animation (move it, paint it, move it, paint it, move it, paint it...) 382
 - Code Kitchen (painting graphics with the beat of the music) 386
 - Exercises and puzzles
-### 13. A Trip to Objectville
+### 13. Work on your Swing
 - Swing Components 400
 - Layout Managers (they control size and placement) 401
 - Three Layout Managers (border, flow, box) 403
@@ -154,7 +154,7 @@ Collection of all the exercises and projects completed during the study of the b
 - JList (a scrollable, selectable list) 417
 - Code Kitchen (The Big One - building the BeatBox chat client) 418
 - Exercises and puzzles
-### 14. A Trip to Objectville
+### 14. Saving Objects
 - Saving object state 431
 - Writing a serialized object to a file 432
 - Java input and output streams (connections and chains) 433
@@ -168,7 +168,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Splitting a String into tokens with split() 458
 - CodeKitchen 462
 - Exercises and puzzles
-### 15. A Trip to Objectville
+### 15. Make a Connection
 - Chat program overview
 - Connecting, sending, and receiving
 - Network sockets
@@ -197,7 +197,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Multithreaded ChatClient code 
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
-### 16. A Trip to Objectville
+### 16. Data Structures
 - Collections
 - Sorting an ArrayList with Collections.sort()
 - Generics and type-safety
@@ -209,7 +209,7 @@ Collection of all the exercises and projects completed during the study of the b
 - HashMap
 - Using wildcards for polymorphism
 - Exercises and puzzles
-### 17. A Trip to Objectville
+### 17. Release Your Code
 - Deployment options
 - Keep your source code and class fi les separate
 - Making an executable JAR (Java ARchives)
@@ -222,7 +222,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Java Web Start (JWS) for deployment from the web
 - How to make and deploy a JWS application
 - Exercises and puzzles
-### 18. A Trip to Objectville
+### 18. Distributed Computing
 - Java Remote Method Invocation (RMI), hands-on, very detailed
 - Servlets (a quick look)
 - Enterprise JavaBeans (EJB), a very quick look
