@@ -24,12 +24,3 @@ public class EchoTestDrive {
         System.out.println(e2.count);
     }
 }
-
-public class Echo {
-
-    int count = 0;
-
-    void hello() {
-        System.out.println("helloooo... ");
-    }
-}
