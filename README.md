@@ -52,7 +52,7 @@ Collection of all the exercises and projects completed during the study of the b
 - Casting primitives from a large size to a smaller size
 - Converting a String to an int with Integer.parseInt()
 - Exercises and puzzles
-### 6. Using the Java Library
+### [6. Using the Java Library](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%206)
 - Analying the bug in the Simple Dot Com Game
 - ArrayList (taking advantage of the Java API)
 - Fixing the DotCom class code
