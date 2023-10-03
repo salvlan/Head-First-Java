@@ -31,7 +31,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Objects on the garbage-collectible heap
 - Arrays (a first look)
 - Exercises and puzzles
-### [4. How Objects Behave](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%204)
+### [4. How Objects Behave](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%204)
 - Methods use object state (bark different)
 - Method arguments and return types
 - Pass-by-value (the variable is always copied)
