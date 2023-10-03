@@ -22,7 +22,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Using main()
 - Guessing Game code
 - Exercises and puzzles
-### [3. Know Your Variables](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%203)
+### [3. Know Your Variables](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%203)
 - Declaring a variable (Java cares about type)
 - Primitive types (“I’d like a double with extra foam, please”)
 - Java keywords
