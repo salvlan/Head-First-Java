@@ -2,7 +2,7 @@
 Collection of all the exercises and projects completed while studying the book "Head First Java 2nd edition - O'Reilly - Kathy Sierra, Bert Bates".
 ## [Index:](https://github.com/salvlan/Head-First-Java/tree/main#head-first-java)
 (Click on the chapter to view the related exercises)
-### [1. Breaking the Surface](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%201)
+### [1. Breaking the Surface](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%201)
 - The way Java works
 - Code structure in Java
 - Anatomy of a class
