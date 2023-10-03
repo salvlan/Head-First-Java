@@ -39,7 +39,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Encapsulation (do it or risk humiliation)
 - Using references in an array
 - Exercises and puzzles
-### [5. Extra-Strength Methods](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%205)
+### [5. Extra-Strength Methods](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%205)
 - Building the Sink a Dot Com game
 - Starting with the Simple Dot Com game (a simpler version)
 - Writing prepcode (pseudocode for the game)
