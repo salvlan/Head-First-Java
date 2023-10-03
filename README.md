@@ -13,7 +13,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Phrase-o-matic
 - Fireside chat: compiler vs. JVM
 - Exercises and puzzles
-### [2. A Trip to Objectville](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%202)
+### [2. A Trip to Objectville](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%202)
 - Chair Wars (Brad the OO guy vs. Larry the procedural guy)
 - Inheritance (an introduction)
 - Overriding methods (an introduction)
