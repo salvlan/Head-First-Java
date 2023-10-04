@@ -76,7 +76,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Rules for overriding (don’t touch those arguments and return types!)
 - Method overloading (nothing more than method name re-use)
 - Exercises and puzzles
-### 8. Serious Polymorphism
+### [8. Serious Polymorphism](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%208)
 - Some classes just should not be instantiated
 - Abstract classes (can’t be instantiated)
 - Abstract methods (must be implemented)
@@ -90,7 +90,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Deadly Diamond of Death (multiple inheritance problem)
 - Using interfaces (the best solution!)
 - Exercises and puzzles
-### 9. Life and Death of an Object
+### [9. Life and Death of an Object](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%209)
 - The stack and the heap, where objects and variables live
 - Methods on the stack
 - Where local variables live
