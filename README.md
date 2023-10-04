@@ -64,7 +64,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Using packages (import statements, fully-qualifi ed names)
 - Using the HTML API docs and reference books
 - Exercises and puzzles
-### 7. Better Living in Objectville
+### [7. Better Living in Objectville](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%207)
 - Understanding inheritance (superclass and subclass relationships)
 - Designing an inheritance tree (the Animal simulation)
 - Avoiding duplicate code (using inheritance)
