@@ -104,7 +104,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Life of an object
 - Garbage Collection (and making objects eligible)
 - Exercises and puzzles
-### 10. Numbers Matter
+### [10. Numbers Matter](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2010)
 - Math class (do you really need an instance of it?)
 - static methods
 - static variables
@@ -116,7 +116,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Date formatting and manipulation
 - Static imports
 - Exercises and puzzles
-### 11. Risky Behavior
+### [11. Risky Behavior](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2011)
 - Making a music machine (the BeatBox)
 - What if you need to call risky code?
 - Exceptions say “something bad may have happened...”
@@ -129,7 +129,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Handle or declare law
 - Code Kitchen (making sounds)
 - Exercises and puzzles
-### 12. A Very Graphic Story
+### [12. A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012)
 - Your fi rst GUI
 - Getting a user event
 - Implement a listener interface
@@ -142,7 +142,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Animation (move it, paint it, move it, paint it, move it, paint it...)
 - Code Kitchen (painting graphics with the beat of the music)
 - Exercises and puzzles
-### 13. Work on your Swing
+### [13. Work on your Swing](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2013)
 - Swing Components
 - Layout Managers (they control size and placement)
 - Three Layout Managers (border, flow, box)
@@ -155,7 +155,7 @@ Collection of all the exercises and projects completed while studying the book "
 - JList (a scrollable, selectable list)
 - Code Kitchen (The Big One - building the BeatBox chat client)
 - Exercises and puzzles
-### 14. Saving Objects
+### [14. Saving Objects](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2014)
 - Saving object state
 - Writing a serialized object to a file
 - Java input and output streams (connections and chains) 
@@ -169,7 +169,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Splitting a String into tokens with split()
 - CodeKitchen
 - Exercises and puzzles
-### 15. Make a Connection
+### [15. Make a Connection](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
 - Chat program overview
 - Connecting, sending, and receiving
 - Network sockets
@@ -198,7 +198,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Multithreaded ChatClient code 
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
-### 16. Data Structures
+### [16. Data Structures](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 - Collections
 - Sorting an ArrayList with Collections.sort()
 - Generics and type-safety
@@ -210,7 +210,7 @@ Collection of all the exercises and projects completed while studying the book "
 - HashMap
 - Using wildcards for polymorphism
 - Exercises and puzzles
-### 17. Release Your Code
+### [17. Release Your Code](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2017)
 - Deployment options
 - Keep your source code and class fi les separate
 - Making an executable JAR (Java ARchives)
@@ -223,7 +223,7 @@ Collection of all the exercises and projects completed while studying the book "
 - Java Web Start (JWS) for deployment from the web
 - How to make and deploy a JWS application
 - Exercises and puzzles
-### 18. Distributed Computing
+### [18. Distributed Computing](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2018)
 - Java Remote Method Invocation (RMI), hands-on, very detailed
 - Servlets (a quick look)
 - Enterprise JavaBeans (EJB), a very quick look
