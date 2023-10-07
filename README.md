@@ -200,7 +200,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Multithreaded ChatClient code 
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
-    ### 18. (3rd Ed.)
+    #### 18. (3rd Ed.)
     To this chapter I have added chapter             18 of the third edition, so as to cover the new topics covered.
 
     - Prova
