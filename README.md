@@ -209,16 +209,13 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 ### [16. ](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 I replaced this chapter with chapters 11 and 12 of the third edition, so as to cover the new topics covered.    
     #### 11. (3rd Ed.)
-
     - Prova
     - prova 2
     - prova 3
     ####12. (3rd Ed.)
-    
     - Prova
     - prova 2
     - prova 3
-
 - Collections
 - Sorting an ArrayList with Collections.sort()
 - Generics and type-safety
