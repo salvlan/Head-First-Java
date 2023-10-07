@@ -1,5 +1,6 @@
 # [Head First Java](https://github.com/salvlan/Head-First-Java/tree/main#head-first-java)
-Collection of all the exercises and projects completed while studying the book "Head First Java 2nd & 3rd edition - O'Reilly - Kathy Sierra, Bert Bates, Trisha Gee". In this Repository you will find all the chapters from the 2nd edition, with the addition of some chapters from the 3rd edition to cover topics that were added in Java versions 8-17.
+Collection of all the exercises and projects completed while studying the book "Head First Java 2nd & 3rd edition - O'Reilly - Kathy Sierra, Bert Bates, Trisha Gee". 
+In this Repository you will find all the chapters from the 2nd edition, with the addition of some chapters from the 3rd edition to cover topics that were added in Java versions 8-17.
 ## [Index:](https://github.com/salvlan/Head-First-Java/tree/main#head-first-java)
 (Click on the chapter to view the related exercises)
 ### [1. Breaking the Surface](https://github.com/salvlan/Head-First-Java/tree/main/%20Chapter%201)
