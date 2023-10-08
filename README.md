@@ -200,8 +200,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Multithreaded ChatClient code 
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
-    #### [18. (3rd Ed.)](
-https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
+    #### [18. (3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
 
 To this chapter I have added chapter             18 of the third edition, so as to cover the new topics covered.
 
