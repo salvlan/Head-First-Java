@@ -201,8 +201,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
     #### [18. (3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
-
-To this chapter I have added chapter             18 of the third edition, so as to cover the new topics covered.
+    To this chapter I have added chapter             18 of the third edition, so as to cover the new topics covered.
 
     - The Ryan and Monica problem, in code
     - Using an object’s lock
