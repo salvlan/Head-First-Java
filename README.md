@@ -209,9 +209,10 @@ In this Repository you will find all the chapters from the 2nd edition, with the
     - Make the increment() method atomic. Synchronize it!
     - Deadlock, a deadly side of synchronization
     - Compare-and-swap with atomic variables
-    - Using immutable objects  659 More problems with shared data
+    - Using immutable objects
+    - More problems with shared data
     - Use a thread-safe data structure
-    -Exercises
+    - Exercises
     - Exercise Solutions 
 ### [16. ](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 I replaced this chapter with chapters 11 and 12 of the third edition, so as to cover the new topics covered.
