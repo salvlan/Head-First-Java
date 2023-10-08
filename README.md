@@ -203,9 +203,16 @@ In this Repository you will find all the chapters from the 2nd edition, with the
     #### 18. (3rd Ed.)
     To this chapter I have added chapter             18 of the third edition, so as to cover the new topics covered.
 
-    - Prova
-    - prova 2
-    - prova 3
+    - The Ryan and Monica problem, in code
+    - Using an object’s lock
+    - The dreaded “Lost Update” problem
+    - Make the increment() method atomic. Synchronize it!
+    - Deadlock, a deadly side of synchronization
+    - Compare-and-swap with atomic variables
+    - Using immutable objects  659 More problems with shared data
+    - Use a thread-safe data structure
+    -Exercises
+    - Exercise Solutions 
 ### [16. ](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 I replaced this chapter with chapters 11 and 12 of the third edition, so as to cover the new topics covered.
     #### 11. (3rd Ed.)
