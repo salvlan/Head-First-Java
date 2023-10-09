@@ -216,29 +216,8 @@ In this Repository you will find all the chapters from the 2nd edition, with the
     - Exercise Solutions 
 ### [16.](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 I replaced this chapter with chapters 11 and 12 of the third edition, so as to cover the new topics covered.
-
     #### Ciao
 
-    #### (3rd Ed.)
-    - Prova
-    - prova 2
-    - prova 3
-
-    #### (3rd Ed.)
-    - Prova
-    - prova 2
-    - prova 3
-- Collections
-- Sorting an ArrayList with Collections.sort()
-- Generics and type-safety
-- Sorting things that implement the Comparable interface
-- Sorting things with a custom Comparator
-- The collection API—lists, sets, and maps
-- Avoiding duplicates with HashSet
-- Overriding hashCode() and equals()
-- HashMap
-- Using wildcards for polymorphism
-- Exercises and puzzles
 ### [17. Release Your Code](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2017)
 - Deployment options
 - Keep your source code and class fi les separate
