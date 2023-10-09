@@ -227,11 +227,19 @@ I replaced this chapter with chapters 11 and 12 of the third edition, so as to c
 - What you MUST know about TreeSet...
 - We’ve seen Lists and Sets, now we’ll use a Map
 - Finally, back to generics
-- Exercise
-- Solutions
+- Exercise Solutions
 #### [12. (3rd Ed.) Lambdas and Streams: What, Not How](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 - Tell the computer WHAT you want
-- When for loops go wrong Introducing the Streams API Getting a result from a Stream Guidelines for working with streams Hello Lambda, my (not so) old friend Spotting Functional Interfaces Lou’s Challenge #1: Find all the “rock” songs Lou’s Challenge #2: List all the genres Exercises Exercise Solutions
+- When for loops go wrong
+- Introducing the Streams API
+- Getting a result from a Stream
+- Guidelines for working with streams
+- Hello Lambda, my (not so) old friend
+- Spotting Functional Interfaces
+- Lou’s Challenge #1: Find all the “rock” songs
+- Lou’s Challenge #2: List all the genres
+- Exercises
+- Exercise Solutions
 ### [17. Release Your Code](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2017)
 - Deployment options
 - Keep your source code and class fi les separate
