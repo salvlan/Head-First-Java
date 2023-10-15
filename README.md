@@ -201,7 +201,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
     #### [18. (3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
-    To this chapter I have added part og the chapter             18 of the third edition, so as to cover topics that were added in Java versions 8-17.
+    I have added part of the chapter             18 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - Compare-and-swap with atomic variables
     - Using immutable objects
