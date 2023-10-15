@@ -201,13 +201,8 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
     #### [18. (3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
-    To this chapter I have added chapter             18 of the third edition, so as to cover topics that were added in Java versions 8-17.
+    To this chapter I have added part og the chapter             18 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
-    - The Ryan and Monica problem, in code
-    - Using an object’s lock
-    - The dreaded “Lost Update” problem
-    - Make the increment() method atomic. Synchronize it!
-    - Deadlock, a deadly side of synchronization
     - Compare-and-swap with atomic variables
     - Using immutable objects
     - More problems with shared data
