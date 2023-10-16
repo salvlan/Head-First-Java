@@ -173,6 +173,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Exercises and puzzles
     #### [16. (3rd Ed.) Saving Objects (and Text)](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2014)
     I have added part of the chapter             16 of the third edition, so as to cover topics that were added in Java versions 8-17.
+
     - Path, Paths, and Files (messing with directories)
     - Finally, a closer look at finally
 ### [15. Make a Connection](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015)
