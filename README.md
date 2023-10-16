@@ -145,7 +145,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Code Kitchen (painting graphics with the beat of the music)
 - Exercises and puzzles
     #### [14. (3rd Ed.) A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012)
-    I have added part of the chapter             14 of the third edition, so as to cover topics that were added in Java versions 8-17.
+    I have added a paragraph of the chapter             14 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - lambdas to the rescue! (again) 
 ### [13. Work on your Swing](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2013)
@@ -176,7 +176,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - CodeKitchen
 - Exercises and puzzles
     #### [16. (3rd Ed.) Saving Objects (and Text)](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2014)
-    I have added part of the chapter             16 of the third edition, so as to cover topics that were added in Java versions 8-17.
+    I have added some paragraphs of the chapter             16 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - Path, Paths, and Files (messing with directories)
     - Finally, a closer look at finally
