@@ -172,6 +172,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - CodeKitchen
 - Exercises and puzzles
     #### 16. (3rd Ed.) Saving Objects (and Text)
+
     I have added part of the chapter             16 of the third edition, so as to cover topics that were added in Java versions 8-17.
     - Path, Paths, and Files (messing with directories)
     - Finally, a closer look at finally
