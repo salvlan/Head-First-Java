@@ -144,7 +144,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Animation (move it, paint it, move it, paint it, move it, paint it...)
 - Code Kitchen (painting graphics with the beat of the music)
 - Exercises and puzzles
-    #### [14. (3rd Ed.) A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012/Chapter%2014%20(3rd%20Edition))
+    #### [(Chapter 14 - 3rd Ed.) A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012/Chapter%2014%20(3rd%20Edition))
     I have added a paragraph of the chapter             14 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - lambdas to the rescue! (again) 
@@ -175,7 +175,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Splitting a String into tokens with split()
 - CodeKitchen
 - Exercises and puzzles
-    #### [16. (3rd Ed.) Saving Objects (and Text)](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2014/Chapter%2016%20(3rd%20Edition))
+    #### [(Chapter 16 - 3rd Ed.) Saving Objects (and Text)](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2014/Chapter%2016%20(3rd%20Edition))
     I have added some paragraphs of the chapter             16 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - Path, Paths, and Files (messing with directories)
@@ -210,7 +210,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Multithreaded ChatClient code 
 - Ready-bake SimpleChatServer
 - Exercises and puzzles
-    #### [Chapter 18 - 3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015/Chapter%2018%20(3rd%20Edition))
+    #### [(Chapter 18 - 3rd Ed.) Dealing with Concurrency Issues](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2015/Chapter%2018%20(3rd%20Edition))
     I have added part of the chapter             18 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - Compare-and-swap with atomic variables
@@ -221,7 +221,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
     - Exercise Solutions 
 ### [16.](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 I replaced this chapter with chapters 11 and 12 of the third edition, so as to cover topics that were added in Java versions 8-17.
-#### [11. (3rd Ed.) Data Structures](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
+#### [(Chapter 11 - 3rd Ed.) Data Structures](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 - Exploring the java.util API, List and Collections 
 - Generics means more type-safety
 - Revisiting the sort() method
@@ -233,7 +233,7 @@ I replaced this chapter with chapters 11 and 12 of the third edition, so as to c
 - We’ve seen Lists and Sets, now we’ll use a Map
 - Finally, back to generics
 - Exercise Solutions
-#### [12. (3rd Ed.) Lambdas and Streams: What, Not How](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
+#### [(Chapter 12 - 3rd Ed.) Lambdas and Streams: What, Not How](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
 - Tell the computer WHAT you want
 - When for loops go wrong
 - Introducing the Streams API
