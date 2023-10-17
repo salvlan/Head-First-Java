@@ -144,7 +144,7 @@ In this Repository you will find all the chapters from the 2nd edition, with the
 - Animation (move it, paint it, move it, paint it, move it, paint it...)
 - Code Kitchen (painting graphics with the beat of the music)
 - Exercises and puzzles
-    #### [14. (3rd Ed.) A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012)
+    #### [14. (3rd Ed.) A Very Graphic Story](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2012/Chapter%2014%20(3rd%20Edition))
     I have added a paragraph of the chapter             14 of the third edition, so as to cover topics that were added in Java versions 8-17.
 
     - lambdas to the rescue! (again) 
