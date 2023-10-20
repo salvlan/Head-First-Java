@@ -233,7 +233,7 @@ I replaced this chapter with chapters 11 and 12 of the third edition, so as to c
 - We’ve seen Lists and Sets, now we’ll use a Map
 - Finally, back to generics
 - Exercise Solutions
-#### [(Chapter 12 - 3rd Ed.) Lambdas and Streams: What, Not How](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016)
+#### [(Chapter 12 - 3rd Ed.) Lambdas and Streams: What, Not How](https://github.com/salvlan/Head-First-Java/tree/main/Chapter%2016/Chapter%2012%20(3rd%20Edition))
 - Tell the computer WHAT you want
 - When for loops go wrong
 - Introducing the Streams API
